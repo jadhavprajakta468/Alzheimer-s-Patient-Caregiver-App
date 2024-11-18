@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#FFFFFF"
+    android:gravity="center"> <!-- Center content -->
+
+    <!-- Pill Name EditText -->
+    <EditText
+        android:id="@+id/pill_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Pill Name"
+        android:padding="12dp"
+        android:textSize="16sp"
+        android:background="@drawable/edittext_background"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- Schedule EditText -->
+    <EditText
+        android:id="@+id/schedule_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Schedule"
+        android:padding="12dp"
+        android:textSize="16sp"
+        android:background="@drawable/edittext_background"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- Save Button -->
+    <Button
+        android:id="@+id/save_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/button_background"
+        android:textSize="16sp"
+        android:padding="12dp"
+        android:layout_marginTop="16dp"/>
+
+</LinearLayout>

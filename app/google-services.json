@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26427766879",
+    "project_id": "psdl-ii-project",
+    "storage_bucket": "psdl-ii-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26427766879:android:f0eefd034f25b09aedc3ea",
+        "android_client_info": {
+          "package_name": "com.example.psdl_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvdcQaq8QkJSqqlxS563No2evf4ZBAGss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

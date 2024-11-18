@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <!-- Permissions for accessing external storage -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <uses-feature
+        android:name="android.hardware.telephony"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/alzhiemerlogo"
+        android:label="AlmCare"
+        android:roundIcon="@drawable/alzhiemerlogo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PSDL_Project"
+        tools:targetApi="31">
+        <activity
+            android:name=".MemoryMatching"
+            android:exported="false" />
+        <activity
+            android:name=".MemoryTiles"
+            android:exported="false" />
+        <activity
+            android:name=".ProfilePage"
+            android:exported="false" />
+        <activity
+            android:name=".NumberMemoryGame"
+            android:exported="false" />
+        <activity
+            android:name=".Games"
+            android:exported="false" />
+        <activity
+            android:name=".MarketMap"
+            android:exported="false" />
+        <activity
+            android:name=".HomeMap"
+            android:exported="false" />
+        <activity
+            android:name=".BankMap"
+            android:exported="false" />
+        <activity
+            android:name=".OfficeMap"
+            android:exported="false" />
+        <activity
+            android:name=".UpdateAddressBook"
+            android:exported="false" />
+        <activity
+            android:name=".CurrentAddress"
+            android:exported="false" />
+        <activity
+            android:name=".AddressBookActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UpdateForm"
+            android:exported="false" />
+        <activity
+            android:name=".DisplayPhotoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AddPhotoActivity"
+            android:exported="false" /> <!-- Main Launch Activity -->
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".WinActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LossActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Quiz"
+            android:exported="false" />
+        <activity
+            android:name=".Form"
+            android:exported="false" />
+        <activity
+            android:name=".MemoryBooster"
+            android:exported="false" />
+        <activity
+            android:name=".AddDailyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DailyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PhotoAlbum"
+            android:exported="false" />
+        <activity
+            android:name=".AddScheduleActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PillSchedule"
+            android:exported="false" />
+        <activity
+            android:name=".SignUpActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+    </application>
+
+</manifest>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF"/> <!-- Solid white color for background -->
+    <corners android:radius="16dp"/> <!-- Rounded corners for soft edges -->
+    <elevation android:value="4dp"/> <!-- Shadow effect for a floating appearance -->
+    <padding
+        android:left="12dp"
+        android:right="12dp"
+        android:top="12dp"
+        android:bottom="12dp"/> <!-- Padding for content inside the container -->
+</shape>

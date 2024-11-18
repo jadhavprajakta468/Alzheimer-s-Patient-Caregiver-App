@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#EDE7F6"
+    android:padding="16dp"
+    android:gravity="center_vertical">
+
+    <!-- Google Maps Logo -->
+    <ImageView
+        android:layout_width="197dp"
+        android:layout_height="186dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="30dp"
+        android:contentDescription="Google Maps Logo"
+        android:src="@drawable/googlemap" />
+
+    <!-- Address Input Field (using rounded corners) -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/address_input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:hint="Enter Google Maps address link"
+            android:inputType="textUri"
+            android:padding="12dp"
+            android:textSize="16sp"
+            android:background="@drawable/rounded_corner"/>
+
+    </RelativeLayout>
+
+    <!-- Update Button -->
+    <Button
+        android:id="@+id/update_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Update"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#4CAF50"
+        android:layout_marginTop="16dp"
+        android:elevation="4dp"/>
+</LinearLayout>

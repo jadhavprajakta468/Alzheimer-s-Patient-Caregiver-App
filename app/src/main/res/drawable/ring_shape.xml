@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Fill color -->
+
+
+    <!-- Stroke (border) -->
+    <stroke
+        android:color="@android:color/black"
+        android:width="5dp"/>                    <!-- The thickness of the border -->
+
+    <!-- Rounded corners -->
+    <corners android:radius="170dp"/>            <!-- Increased the radius to 120dp -->
+
+    <!-- Size of the drawable -->
+    <size android:width="170dp" android:height="170dp"/>
+</shape>

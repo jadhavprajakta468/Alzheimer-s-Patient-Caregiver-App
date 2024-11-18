@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F8F8F8"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+
+    <!-- Toolbar -->
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#81C784"
+        android:elevation="4dp"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        android:title="Companion"
+        android:titleTextColor="#FFFFFF">
+
+        <TextView
+            android:id="@+id/toolbar_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="GuardianCare"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+    </androidx.appcompat.widget.Toolbar>
+    <!-- Image -->
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="226dp"
+        android:layout_marginTop="18dp"
+        app:srcCompat="@drawable/win" />
+    <!-- Reward Message -->
+    <TextView
+        android:id="@+id/rewardMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="16dp"
+        android:text="You have earned 2 coins.. Yayyyy!!!"
+        android:textColor="#388E3C"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <!-- Encouragement Message -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingTop="10dp"
+        android:text="Great job! Keep up the good work."
+        android:textColor="#6A6F77"
+        android:textSize="18sp" />
+
+
+    <!-- Play Again Button -->
+    <Button
+        android:id="@+id/playAgain_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:backgroundTint="#66BB6A"
+        android:text="Play Again"
+        android:textColor="#FFFFFF" />
+
+
+    <!-- Quit Button -->
+    <Button
+        android:id="@+id/quit_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="#66BB6A"
+        android:text="Quit"
+        android:textColor="#FFFFFF" />
+
+
+</LinearLayout>

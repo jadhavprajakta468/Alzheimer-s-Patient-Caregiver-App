@@ -1,0 +1,113 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5F5F5"
+    android:padding="20dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- Title -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Patient Information Form"
+            android:textSize="24sp"
+            android:textColor="#4CAF50"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:paddingBottom="20dp"/>
+
+        <!-- Name -->
+        <EditText
+            android:id="@+id/editTextName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Full Name"
+            android:inputType="textPersonName"
+            android:padding="10dp"
+            android:background="@drawable/input_background"/>
+
+        <!-- Age -->
+        <EditText
+            android:id="@+id/editTextAge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Age"
+            android:inputType="number"
+            android:padding="10dp"
+            android:background="@drawable/input_background"
+            android:layout_marginTop="10dp"/>
+
+        <!-- Mobile Number -->
+        <EditText
+            android:id="@+id/editTextPhoneNumber"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Mobile Number"
+            android:inputType="phone"
+            android:padding="10dp"
+            android:background="@drawable/input_background"
+            android:layout_marginTop="10dp"/>
+
+        <!-- Birth Date -->
+        <EditText
+            android:id="@+id/editTextBirthDate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Birth Date (e.g., DD/MM/YYYY)"
+            android:inputType="date"
+            android:padding="10dp"
+            android:background="@drawable/input_background"
+            android:layout_marginTop="10dp"/>
+
+        <!-- City of Living -->
+        <EditText
+            android:id="@+id/editTextCity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="City of Living"
+            android:inputType="text"
+            android:padding="10dp"
+            android:background="@drawable/input_background"
+            android:layout_marginTop="10dp"/>
+
+        <!-- Spouse/Partner Name -->
+        <EditText
+            android:id="@+id/editTextSpouse"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Spouse/Partner's Name"
+            android:inputType="textPersonName"
+            android:padding="10dp"
+            android:background="@drawable/input_background"
+            android:layout_marginTop="10dp"/>
+
+        <!-- Favorite Activity -->
+        <EditText
+            android:id="@+id/editTextFavoriteActivity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Favorite Activity"
+            android:inputType="text"
+            android:padding="10dp"
+            android:background="@drawable/input_background"
+            android:layout_marginTop="10dp"/>
+
+        <!-- Submit Button -->
+        <Button
+            android:id="@+id/buttonSubmitForm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Submit"
+            android:backgroundTint="#4CAF50"
+            android:textColor="#FFFFFF"
+            android:layout_marginTop="20dp"
+            android:textSize="16sp"
+            android:padding="10dp"/>
+
+    </LinearLayout>
+</ScrollView>
