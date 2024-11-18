@@ -52,13 +52,8 @@ This Android application is designed to assist caregivers of Alzheimer's patient
   <img src="https://github.com/user-attachments/assets/225a262c-d20e-421a-a9c0-0611988606f1" alt="Screenshot 13" width="200">
   <img src="https://github.com/user-attachments/assets/1b225972-5569-4789-a285-65430e64d3a2" alt="Screenshot 14" width="200">
   <img src="https://github.com/user-attachments/assets/ef6a0988-d17e-4ac5-8c07-09149057c71f" alt="Screenshot 15" width="200">
+  <img src="https://github.com/user-attachments/assets/9bc3541b-c33f-4ebe-a6d1-c78e5133b02e" alt="Screenshot 16" width="200">
 </p>
-
-
-
-
-
-
 
 
 
