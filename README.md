@@ -31,21 +31,18 @@ This Android application is designed to assist caregivers of Alzheimer's patient
   <img src="https://github.com/user-attachments/assets/f58e078a-5f85-4a81-b2ab-1ca72eccfc32" alt="Screenshot 1" width="200">
   <img src="https://github.com/user-attachments/assets/869dd635-b6b1-47fc-bf4b-47016b08d047" alt="Screenshot 2" width="200">
   <img src="https://github.com/user-attachments/assets/09b6ee4b-b746-435d-b811-a86f222e0eb4" alt="Screenshot 3" width="200">
+  <img src="https://github.com/user-attachments/assets/f56ef20d-f120-45f1-b803-790e7d43a9dc" alt="Screenshot 4" width="200">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f56ef20d-f120-45f1-b803-790e7d43a9dc" alt="Screenshot 4" width="200">
   <img src="https://github.com/user-attachments/assets/2b2613ac-516e-41b2-80cc-9e44f28dd121" alt="Screenshot 5" width="200">
   <img src="https://github.com/user-attachments/assets/9275fb67-c51f-408b-8986-6afd8c43f0d2" alt="Screenshot 6" width="200">
-</p>
-
-<p align="center">
   <img src="https://github.com/user-attachments/assets/e922aa89-e6cd-4d77-9e5a-14c617a4f644" alt="Screenshot 7" width="200">
   <img src="https://github.com/user-attachments/assets/14d3c155-d8b0-489c-930a-9969eda251d3" alt="Screenshot 8" width="200">
-  <img src="https://github.com/user-attachments/assets/1876fec7-1f39-4ba4-b221-f0b1a80bbe85" alt="Screenshot 9" width="200">
 </p>
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/1876fec7-1f39-4ba4-b221-f0b1a80bbe85" alt="Screenshot 9" width="200">
   <img src="https://github.com/user-attachments/assets/5519a14b-2589-4913-b383-c4723954cfd3" alt="Screenshot 10" width="200">
   <img src="https://github.com/user-attachments/assets/ebe9bb8b-bb69-4ae5-ba4e-e6c366ae55f5" alt="Screenshot 11" width="200">
   <img src="https://github.com/user-attachments/assets/d359f2c8-21d1-4f23-8854-0fe2d9df4418" alt="Screenshot 12" width="200">
@@ -56,25 +53,6 @@ This Android application is designed to assist caregivers of Alzheimer's patient
   <img src="https://github.com/user-attachments/assets/1b225972-5569-4789-a285-65430e64d3a2" alt="Screenshot 14" width="200">
   <img src="https://github.com/user-attachments/assets/ef6a0988-d17e-4ac5-8c07-09149057c71f" alt="Screenshot 15" width="200">
 </p>
-
-## Screenshots
-![Screenshot_20241118_213136](https://github.com/user-attachments/assets/f58e078a-5f85-4a81-b2ab-1ca72eccfc32)
-![Screenshot_20241118_213140](https://github.com/user-attachments/assets/869dd635-b6b1-47fc-bf4b-47016b08d047)
-![Screenshot_20241118_213446](https://github.com/user-attachments/assets/09b6ee4b-b746-435d-b811-a86f222e0eb4)
-![Screenshot_20241118_213207](https://github.com/user-attachments/assets/f56ef20d-f120-45f1-b803-790e7d43a9dc)
-![Screenshot_20241118_213231](https://github.com/user-attachments/assets/2b2613ac-516e-41b2-80cc-9e44f28dd121)
-![Screenshot_20241118_213302](https://github.com/user-attachments/assets/9275fb67-c51f-408b-8986-6afd8c43f0d2)
-![Screenshot_20241118_213309](https://github.com/user-attachments/assets/e922aa89-e6cd-4d77-9e5a-14c617a4f644)
-![Screenshot_20241118_213355](https://github.com/user-attachments/assets/14d3c155-d8b0-489c-930a-9969eda251d3)
-![Screenshot_20241118_213357](https://github.com/user-attachments/assets/1876fec7-1f39-4ba4-b221-f0b1a80bbe85)
-![Screenshot_20241118_213317](https://github.com/user-attachments/assets/5519a14b-2589-4913-b383-c4723954cfd3)
-![Screenshot_20241118_213333](https://github.com/user-attachments/assets/ebe9bb8b-bb69-4ae5-ba4e-e6c366ae55f5)
-![Screenshot_20241118_213402](https://github.com/user-attachments/assets/d359f2c8-21d1-4f23-8854-0fe2d9df4418)
-![Screenshot_20241118_213411](https://github.com/user-attachments/assets/225a262c-d20e-421a-a9c0-0611988606f1)
-![Screenshot_20241118_213415](https://github.com/user-attachments/assets/1b225972-5569-4789-a285-65430e64d3a2)
-![Screenshot_20241118_213427](https://github.com/user-attachments/assets/ef6a0988-d17e-4ac5-8c07-09149057c71f)
-
-
 
 
 
