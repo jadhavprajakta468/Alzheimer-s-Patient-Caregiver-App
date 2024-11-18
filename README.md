@@ -14,20 +14,6 @@ This Android application is designed to assist caregivers of Alzheimer's patient
 - **Pills Schedule**: Track pills, dosage, and timing.
 - **Memory Games**: Games designed to stimulate and maintain cognitive function.
 
-## Screenshots
-
-<p align="center">
-  <img src="screenshots/screenshot1.png" alt="Screenshot 1" width="200">
-  <img src="screenshots/screenshot2.png" alt="Screenshot 2" width="200">
-  <img src="screenshots/screenshot3.png" alt="Screenshot 3" width="200">
-</p>
-
-<p align="center">
-  <img src="screenshots/screenshot4.png" alt="Screenshot 4" width="200">
-  <img src="screenshots/screenshot5.png" alt="Screenshot 5" width="200">
-  <img src="screenshots/screenshot6.png" alt="Screenshot 6" width="200">
-</p>
-
 ## Technological Features
 - **Android Studio**: Development platform using Java and XML.
 - **APIs**:
