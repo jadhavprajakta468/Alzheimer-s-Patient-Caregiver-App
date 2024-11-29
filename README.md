@@ -12,7 +12,7 @@ This Android application is designed to assist caregivers of Alzheimer's patient
 - **Medication Schedule**: Set up detailed medication schedules with alarms and notifications, including photos of medication.
 - **ToDo List**: Manage daily tasks such as doctor's appointments, exercises, and reminders.
 - **Pills Schedule**: Track pills, dosage, and timing.
-- **Memory Games**: Games designed to stimulate and maintain cognitive function.
+- **Memory Games**: Games designed to stimulate the brain, maintain cognitive function and improve memory.
 
 ## Technological Features
 - **Android Studio**: Development platform using Java and XML.
